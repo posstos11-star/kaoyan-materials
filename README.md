@@ -1,4 +1,4 @@
-# 2024考研资料最全合集 | 考研真题 考研笔记 考研复习资料免费下载
+# 2026考研资料最全合集 | 考研真题 考研笔记 考研复习资料免费下载
 
 [![GitHub](https://img.shields.io/badge/GitHub-kaoyan--materials-blue?logo=github)](https://github.com/posstos11-star/kaoyan-materials)
 [![Website](https://img.shields.io/badge/Website-Online-green)](https://posstos11-star.github.io/kaoyan-materials/)
@@ -340,7 +340,7 @@ const resourcesData = {
 
 ## 📅 更新日志
 
-### v1.0 (2024-03-02)
+### v1.0 (2026-02-02)
 - ✅ 项目初始版本发布
 - ✅ 包含134个考研资料资源
 - ✅ 完整的SEO优化
@@ -349,7 +349,7 @@ const resourcesData = {
 
 ---
 
-**最后更新**：2024年3月2日
+**最后更新**：2026年3月2日
 
 **关键词标签**：#考研资料 #考研真题 #考研笔记 #考研复习资料 #考研备考资料 #考研学习资料 #考研资源 #考研电子书 #2024考研 #考研备考
 
